@@ -1,5 +1,5 @@
 let name = "Lorran";
-let experiencia = 10001;
+let experiencia = 11001;
 
 const heroi = (name, experiencia) => {
     if (experiencia <= 1000) {
