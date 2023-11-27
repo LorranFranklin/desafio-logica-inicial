@@ -1,11 +1,3 @@
-    // aqui são as chamadas das funções
-//    createStringConnetion("db_products", "Franklin", "9876")
-
-    //função com parametro
-    //function createStringConnetion(databaseName, user = "cliente", pass) {
-  //      console.log(`connect:DBCONECT;user=${user};pass=${pass};initial_database=${databaseName}`)
-//   }
-
 let name = "Lorran";
 let experiencia = 11001;
 
@@ -26,5 +18,5 @@ const heroi = (name, experiencia) => {
         console.log("O Herói,", name, "tem", experiencia, "de xp, então é da Liga Radiante.");
     }
 }
-// Exemplo de chamada da função
+
 heroi(name, experiencia);
