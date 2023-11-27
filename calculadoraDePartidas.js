@@ -21,5 +21,3 @@ const partidasRankeadas = (vitorias, derrotas) => {
 }
 // Exemplo de chamada da função
 partidasRankeadas(vitorias, derrotas);
-
-console.log()
