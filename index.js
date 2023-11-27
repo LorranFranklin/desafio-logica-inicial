@@ -1,3 +1,11 @@
+    // aqui são as chamadas das funções
+//    createStringConnetion("db_products", "Franklin", "9876")
+
+    //função com parametro
+    //function createStringConnetion(databaseName, user = "cliente", pass) {
+  //      console.log(`connect:DBCONECT;user=${user};pass=${pass};initial_database=${databaseName}`)
+//   }
+
 let name = "Lorran";
 let experiencia = 11001;
 
